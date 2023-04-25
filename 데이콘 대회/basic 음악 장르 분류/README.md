@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/108413432/234204502-eaf6f6f7-e095-43cb-b1de-cf52112cb07a.png)
+
+
 > [배경] 
 
 안녕하세요, 데이커 여러분! 데이콘 Basic 음악 장르 분류 AI 경진대회에 오신 것을 환영합니다!
