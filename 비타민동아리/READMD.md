@@ -1,0 +1,9 @@
+# 비타민 동아리
+
+### 비타민 동아리에서 진행한 공부와 프로젝트를 올렸습니다.
+
+6개월 동안은 머신러닝 위주의 공부를 진행하였습니다.
+6개월 동안은 딥러닝 위주의 공부를 진행하였습니다.
+
+![KakaoTalk_20230329_201555675](https://user-images.githubusercontent.com/108413432/234436432-9d584007-f7cc-4990-995f-07b871503532.jpg)
+![KakaoTalk_20221123_200532887](https://user-images.githubusercontent.com/108413432/234436440-f74fdd8a-9b9c-4e42-b5e5-bac63c960245.jpg)
