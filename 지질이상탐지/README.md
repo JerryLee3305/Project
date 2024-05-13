@@ -1,4 +1,4 @@
-[2023 지질자원 AI 대회 발표자료_0816.pptx](https://github.com/JerryLee3305/Project/files/15288841/2023.AI._0816.pptx)![image](https://github.com/JerryLee3305/Project/assets/108413432/d4d4d2a8-b8fa-48fd-bbb1-1818bde9354a)
+![image](https://github.com/JerryLee3305/Project/assets/108413432/d4d4d2a8-b8fa-48fd-bbb1-1818bde9354a)
 
 ### 대회 소개
 ○ 공모개요
@@ -17,4 +17,4 @@
 
 
 ### 발표 ppt
-[2023 지질자원 AI 대회 발표자료_0816.pdf](https://github.com/JerryLee3305/Project/files/15288853/2023.AI._0816.pdf)
+[2023 지질자원 AI 대회 발표자료_0816.pptx](https://github.com/JerryLee3305/Project/files/15288841/2023.AI._0816.pptx)
